@@ -17,6 +17,6 @@ pip install pandas plotly dash statsmodels
 - Abra o terminal na pasta do projeto.
 - Execute o comando:
 ```Bash
-python nome_do_seu_arquivo.py
+python ecomerce_dash.py
 ````
 - Abra o navegador e acesse o endereço: http://127.0.0.1:8050/
