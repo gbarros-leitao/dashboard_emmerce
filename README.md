@@ -10,13 +10,13 @@ Este projeto consiste em uma aplicação web interativa desenvolvida com Dash e 
 **Instalações**
 ````Bash
 pip install pandas plotly dash statsmodels
-
-**Notas**
-
-**Exemplo Prático:**
-```bash
-# 1. Instale as dependências
-npm install
-
-# 2. Inicie o servidor
-npm start
+`````
+- ``Nota``: Certifique-se de que o arquivo ``ecommerce_estatistica.csv`` esteja na mesma pasta que o script Python.
+# Como Executar
+- Clone este repositório ou baixe o arquivo .py.
+- Abra o terminal na pasta do projeto.
+- Execute o comando:
+```Bash
+python nome_do_seu_arquivo.py
+````
+- Abra o navegador e acesse o endereço: http://127.0.0.1:8050/
