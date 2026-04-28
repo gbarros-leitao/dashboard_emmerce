@@ -1,4 +1,4 @@
-# Dashboard de Estatísticas de E-commerce
+# Dashboard E-commerce
 Este projeto consiste em uma aplicação web interativa desenvolvida com Dash e Plotly para visualização de dados de um dataset de e-commerce. O objetivo é extrair insights sobre preços, avaliações, descontos e marcas através de diferentes tipos de gráficos estatísticos.
 # Tecnologias Utilizadas
 - ``Python 3.x``
